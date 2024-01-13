@@ -12,7 +12,6 @@ I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :telescope: I'm a Self-motivated individual with technical, analytical, and problem-solving skills.
 
-- :seedling: Exploring Technical Content Writing.
 
 - :zap: I’m looking to collaborate on International scale projects.
 
